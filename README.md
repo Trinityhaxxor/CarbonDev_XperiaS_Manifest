@@ -5,6 +5,8 @@ Additional Manifest For CarbonDev / CarbonROM - Maintainer - TrinityHaxxorX
 
 RAW - COPY
 
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
 <!-- Xperia S Support Compiled by TrinityHaxxorX -->
   <project path="device/sony/aoba" name="android_device_sony_aoba" remote="opensemc" revision="cm-10.1" />
   <project path="device/sony/hikari" name="android_device_sony_hikari" remote="opensemc" revision="cm-10.1" />
